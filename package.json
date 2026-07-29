@@ -1,0 +1,14 @@
+{
+  "name": "pinterest-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js client for the themineworks/pinterest-profile Apify actor",
+  "main": "pinterest_scraper.mjs",
+  "scripts": {
+    "start": "node pinterest_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^1.9.2"
+  },
+  "license": "MIT"
+}
