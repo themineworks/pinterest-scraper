@@ -1,14 +1,15 @@
 {
   "name": "pinterest-scraper",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "type": "module",
-  "description": "Node.js client for the themineworks/pinterest-profile Apify actor",
+  "description": "Followers, monthly views, pins, and boards without login. Python, Node.js and cURL clients for the Pinterest Profile Scraper on Apify, pay per result.",
   "main": "pinterest_scraper.mjs",
   "scripts": {
     "start": "node pinterest_scraper.mjs"
   },
   "dependencies": {
-    "apify-client": "^1.9.2"
+    "apify-client": "^2.9.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/pinterest-profile-scraper/"
 }
