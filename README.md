@@ -5,7 +5,7 @@ Scrape any public Pinterest profile without login: followers, monthly views, boa
 **Run it on Apify:** [apify.com/themineworks/pinterest-profile-scraper](https://apify.com/themineworks/pinterest-profile-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/pinterest-profile-scraper](https://themineworks.com/actors/pinterest-profile-scraper/)
 
-**Price:** $3.00 per 1,000 profiles on Apify's free plan, down to $2.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $2.00 per 1,000 profiles on Apify's higher plans ($3.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Scrape any public Pinterest profile without login: followers, monthly views, boa
 * Recent pins with save counts and images
 * Bio, website, and profile metadata
 * No login or Pinterest API key required
-* Zero charge on empty or private profiles
+* Empty or private profiles are never charged
 
 ## Quick start
 
@@ -124,7 +124,7 @@ https://mcp.apify.com/?tools=themineworks/pinterest-profile-scraper
 
 ### How much does the Pinterest Profile Scraper cost?
 
-$3.00 per 1,000 profiles on Apify's free plan, down to $2.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $2.00 per 1,000 profiles on Apify's higher plans ($3.00 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
